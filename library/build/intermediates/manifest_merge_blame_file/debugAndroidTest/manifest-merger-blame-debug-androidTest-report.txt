@@ -3,152 +3,152 @@
 3    package="com.smartwidgets.library.test" >
 4
 5    <uses-sdk
-5-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6224633762567510415.xml:5:5-74
+5-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7372126898325565429.xml:5:5-74
 6        android:minSdkVersion="21"
-6-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6224633762567510415.xml:5:15-41
+6-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7372126898325565429.xml:5:15-41
 7        android:targetSdkVersion="28" />
-7-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6224633762567510415.xml:5:42-71
+7-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7372126898325565429.xml:5:42-71
 8
 9    <instrumentation
-9-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6224633762567510415.xml:11:5-15:79
+9-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7372126898325565429.xml:11:5-15:79
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6224633762567510415.xml:11:22-76
+10-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7372126898325565429.xml:11:22-76
 11        android:functionalTest="false"
-11-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6224633762567510415.xml:14:22-52
+11-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7372126898325565429.xml:14:22-52
 12        android:handleProfiling="false"
-12-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6224633762567510415.xml:13:22-53
+12-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7372126898325565429.xml:13:22-53
 13        android:label="Tests for com.smartwidgets.library.test"
-13-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6224633762567510415.xml:15:22-77
+13-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7372126898325565429.xml:15:22-77
 14        android:targetPackage="com.smartwidgets.library.test" />
-14-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6224633762567510415.xml:12:22-75
+14-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7372126898325565429.xml:12:22-75
 15
 16    <uses-permission android:name="android.permission.INTERNET" />
 16-->[__tested_artifact__::library] D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
 16-->[__tested_artifact__::library] D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-64
 17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-17-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\04ce3f65d1af55f48658ea09801aa37c\places-2.0.0\AndroidManifest.xml:9:5-79
-17-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\04ce3f65d1af55f48658ea09801aa37c\places-2.0.0\AndroidManifest.xml:9:22-76
+17-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d97512688c8648f6a642c36875009a89\places-2.0.0\AndroidManifest.xml:9:5-79
+17-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d97512688c8648f6a642c36875009a89\places-2.0.0\AndroidManifest.xml:9:22-76
 18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Include required permissions for Google Maps API to run. -->
-18-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\04ce3f65d1af55f48658ea09801aa37c\places-2.0.0\AndroidManifest.xml:10:5-76
-18-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\04ce3f65d1af55f48658ea09801aa37c\places-2.0.0\AndroidManifest.xml:10:22-73
+18-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d97512688c8648f6a642c36875009a89\places-2.0.0\AndroidManifest.xml:10:5-76
+18-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d97512688c8648f6a642c36875009a89\places-2.0.0\AndroidManifest.xml:10:22-73
 19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-19-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\71410d59386dba98cbe61d29bc62f196\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
-19-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\71410d59386dba98cbe61d29bc62f196\play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+19-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\49533de9edd9b5541e01a09644147e9d\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+19-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\49533de9edd9b5541e01a09644147e9d\play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
 20
 21    <uses-feature
-21-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\71410d59386dba98cbe61d29bc62f196\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+21-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\49533de9edd9b5541e01a09644147e9d\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
 22        android:glEsVersion="0x00020000"
-22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\71410d59386dba98cbe61d29bc62f196\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\49533de9edd9b5541e01a09644147e9d\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
 23        android:required="true" />
-23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\71410d59386dba98cbe61d29bc62f196\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\49533de9edd9b5541e01a09644147e9d\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
 24
 25    <application
-25-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6224633762567510415.xml:7:5-9:19
+25-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7372126898325565429.xml:7:5-9:19
 26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-26-->[androidx.core:core:1.1.0-rc02] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d23ca375c576c4f77f42c729153a7f8a\core-1.1.0-rc02\AndroidManifest.xml:24:18-86
+26-->[androidx.core:core:1.1.0-rc02] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\7806138d13658dbb3b8c393856c653d3\core-1.1.0-rc02\AndroidManifest.xml:24:18-86
 27        android:debuggable="true" >
-27-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6224633762567510415.xml:7:18-43
+27-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7372126898325565429.xml:7:18-43
 28        <uses-library android:name="android.test.runner" />
-28-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6224633762567510415.xml:8:9-60
-28-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6224633762567510415.xml:8:23-57
+28-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7372126898325565429.xml:8:9-60
+28-->D:\AndroidStudioProjects\SmartWidgets\library\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7372126898325565429.xml:8:23-57
 29
 30        <activity
-30-->[com.karumi:dexter:5.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\67616db55e92c3ef9ac5a4bc6b4c9a5a\jetified-dexter-5.0.0\AndroidManifest.xml:27:9-29:72
+30-->[com.karumi:dexter:5.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\04d49f6b97bf9d50e2261286f03fccb2\jetified-dexter-5.0.0\AndroidManifest.xml:27:9-29:72
 31            android:name="com.karumi.dexter.DexterActivity"
-31-->[com.karumi:dexter:5.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\67616db55e92c3ef9ac5a4bc6b4c9a5a\jetified-dexter-5.0.0\AndroidManifest.xml:28:13-60
+31-->[com.karumi:dexter:5.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\04d49f6b97bf9d50e2261286f03fccb2\jetified-dexter-5.0.0\AndroidManifest.xml:28:13-60
 32            android:theme="@style/Dexter.Internal.Theme.Transparent" /> <!-- Autocomplete -->
-32-->[com.karumi:dexter:5.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\67616db55e92c3ef9ac5a4bc6b4c9a5a\jetified-dexter-5.0.0\AndroidManifest.xml:29:13-69
+32-->[com.karumi:dexter:5.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\04d49f6b97bf9d50e2261286f03fccb2\jetified-dexter-5.0.0\AndroidManifest.xml:29:13-69
 33        <activity
-33-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\04ce3f65d1af55f48658ea09801aa37c\places-2.0.0\AndroidManifest.xml:16:9-23:20
+33-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d97512688c8648f6a642c36875009a89\places-2.0.0\AndroidManifest.xml:16:9-23:20
 34            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
-34-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\04ce3f65d1af55f48658ea09801aa37c\places-2.0.0\AndroidManifest.xml:17:13-91
+34-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d97512688c8648f6a642c36875009a89\places-2.0.0\AndroidManifest.xml:17:13-91
 35            android:exported="false"
-35-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\04ce3f65d1af55f48658ea09801aa37c\places-2.0.0\AndroidManifest.xml:18:13-37
+35-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d97512688c8648f6a642c36875009a89\places-2.0.0\AndroidManifest.xml:18:13-37
 36            android:hardwareAccelerated="true"
-36-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\04ce3f65d1af55f48658ea09801aa37c\places-2.0.0\AndroidManifest.xml:19:13-47
+36-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d97512688c8648f6a642c36875009a89\places-2.0.0\AndroidManifest.xml:19:13-47
 37            android:label="@string/places_autocomplete_label"
-37-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\04ce3f65d1af55f48658ea09801aa37c\places-2.0.0\AndroidManifest.xml:20:13-62
+37-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d97512688c8648f6a642c36875009a89\places-2.0.0\AndroidManifest.xml:20:13-62
 38            android:theme="@style/PlacesAutocompleteThemeOverlay"
-38-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\04ce3f65d1af55f48658ea09801aa37c\places-2.0.0\AndroidManifest.xml:21:13-66
+38-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d97512688c8648f6a642c36875009a89\places-2.0.0\AndroidManifest.xml:21:13-66
 39            android:windowSoftInputMode="stateAlwaysVisible|adjustPan" >
-39-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\04ce3f65d1af55f48658ea09801aa37c\places-2.0.0\AndroidManifest.xml:22:13-71
+39-->[com.google.android.libraries.places:places:2.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d97512688c8648f6a642c36875009a89\places-2.0.0\AndroidManifest.xml:22:13-71
 40        </activity>
 41        <activity
-41-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\0f95d88ed5c5c9590bd232604f07dea3\firebase-auth-19.0.0\AndroidManifest.xml:24:9-31:50
+41-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\540d1f0ef5ee2cd1afcbb92bec80cb10\firebase-auth-19.0.0\AndroidManifest.xml:24:9-31:50
 42            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-42-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\0f95d88ed5c5c9590bd232604f07dea3\firebase-auth-19.0.0\AndroidManifest.xml:25:13-85
+42-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\540d1f0ef5ee2cd1afcbb92bec80cb10\firebase-auth-19.0.0\AndroidManifest.xml:25:13-85
 43            android:excludeFromRecents="true"
-43-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\0f95d88ed5c5c9590bd232604f07dea3\firebase-auth-19.0.0\AndroidManifest.xml:26:13-46
+43-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\540d1f0ef5ee2cd1afcbb92bec80cb10\firebase-auth-19.0.0\AndroidManifest.xml:26:13-46
 44            android:exported="true"
-44-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\0f95d88ed5c5c9590bd232604f07dea3\firebase-auth-19.0.0\AndroidManifest.xml:27:13-36
+44-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\540d1f0ef5ee2cd1afcbb92bec80cb10\firebase-auth-19.0.0\AndroidManifest.xml:27:13-36
 45            android:launchMode="singleTask"
-45-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\0f95d88ed5c5c9590bd232604f07dea3\firebase-auth-19.0.0\AndroidManifest.xml:28:13-44
+45-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\540d1f0ef5ee2cd1afcbb92bec80cb10\firebase-auth-19.0.0\AndroidManifest.xml:28:13-44
 46            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-46-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\0f95d88ed5c5c9590bd232604f07dea3\firebase-auth-19.0.0\AndroidManifest.xml:29:13-102
+46-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\540d1f0ef5ee2cd1afcbb92bec80cb10\firebase-auth-19.0.0\AndroidManifest.xml:29:13-102
 47            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-47-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\0f95d88ed5c5c9590bd232604f07dea3\firebase-auth-19.0.0\AndroidManifest.xml:30:13-72
+47-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\540d1f0ef5ee2cd1afcbb92bec80cb10\firebase-auth-19.0.0\AndroidManifest.xml:30:13-72
 48
 49        <service
-49-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\0f95d88ed5c5c9590bd232604f07dea3\firebase-auth-19.0.0\AndroidManifest.xml:33:9-39:19
+49-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\540d1f0ef5ee2cd1afcbb92bec80cb10\firebase-auth-19.0.0\AndroidManifest.xml:33:9-39:19
 50            android:name="com.google.firebase.components.ComponentDiscoveryService"
-50-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\0f95d88ed5c5c9590bd232604f07dea3\firebase-auth-19.0.0\AndroidManifest.xml:34:13-84
+50-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\540d1f0ef5ee2cd1afcbb92bec80cb10\firebase-auth-19.0.0\AndroidManifest.xml:34:13-84
 51            android:exported="false" >
-51-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\0f95d88ed5c5c9590bd232604f07dea3\firebase-auth-19.0.0\AndroidManifest.xml:35:13-37
+51-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\540d1f0ef5ee2cd1afcbb92bec80cb10\firebase-auth-19.0.0\AndroidManifest.xml:35:13-37
 52            <meta-data
-52-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\0f95d88ed5c5c9590bd232604f07dea3\firebase-auth-19.0.0\AndroidManifest.xml:36:13-38:85
+52-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\540d1f0ef5ee2cd1afcbb92bec80cb10\firebase-auth-19.0.0\AndroidManifest.xml:36:13-38:85
 53                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-53-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\0f95d88ed5c5c9590bd232604f07dea3\firebase-auth-19.0.0\AndroidManifest.xml:37:17-109
+53-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\540d1f0ef5ee2cd1afcbb92bec80cb10\firebase-auth-19.0.0\AndroidManifest.xml:37:17-109
 54                android:value="com.google.firebase.components.ComponentRegistrar" />
-54-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\0f95d88ed5c5c9590bd232604f07dea3\firebase-auth-19.0.0\AndroidManifest.xml:38:17-82
+54-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\540d1f0ef5ee2cd1afcbb92bec80cb10\firebase-auth-19.0.0\AndroidManifest.xml:38:17-82
 55            <meta-data
-55-->[com.google.firebase:firebase-firestore:21.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\b3cba05163dfbdba6bf1da9aac6ebc82\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:20:13-22:85
+55-->[com.google.firebase:firebase-firestore:21.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\82944db2baa437fb76733d53f542eecc\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:20:13-22:85
 56                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-56-->[com.google.firebase:firebase-firestore:21.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\b3cba05163dfbdba6bf1da9aac6ebc82\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:21:17-111
+56-->[com.google.firebase:firebase-firestore:21.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\82944db2baa437fb76733d53f542eecc\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:21:17-111
 57                android:value="com.google.firebase.components.ComponentRegistrar" />
-57-->[com.google.firebase:firebase-firestore:21.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\b3cba05163dfbdba6bf1da9aac6ebc82\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:22:17-82
+57-->[com.google.firebase:firebase-firestore:21.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\82944db2baa437fb76733d53f542eecc\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:22:17-82
 58        </service> <!-- Needs to be explicitly declared on P+ -->
 59        <uses-library
-59-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\71410d59386dba98cbe61d29bc62f196\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+59-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\49533de9edd9b5541e01a09644147e9d\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
 60            android:name="org.apache.http.legacy"
-60-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\71410d59386dba98cbe61d29bc62f196\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+60-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\49533de9edd9b5541e01a09644147e9d\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
 61            android:required="false" />
-61-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\71410d59386dba98cbe61d29bc62f196\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+61-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\49533de9edd9b5541e01a09644147e9d\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
 62
 63        <activity
-63-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\c8499f8320ecc1cfe5d3e5d6e485ec6d\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+63-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\2c9773fdbd7f8cd58b5c39bdbbb49c8d\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
 64            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-64-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\c8499f8320ecc1cfe5d3e5d6e485ec6d\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+64-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\2c9773fdbd7f8cd58b5c39bdbbb49c8d\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
 65            android:exported="false"
-65-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\c8499f8320ecc1cfe5d3e5d6e485ec6d\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+65-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\2c9773fdbd7f8cd58b5c39bdbbb49c8d\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
 66            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-66-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\c8499f8320ecc1cfe5d3e5d6e485ec6d\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+66-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\2c9773fdbd7f8cd58b5c39bdbbb49c8d\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
 67
 68        <provider
-68-->[com.google.firebase:firebase-common:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\38b9899ad2b97e3607a23ee05197f2d6\firebase-common-19.0.0\AndroidManifest.xml:12:9-16:39
+68-->[com.google.firebase:firebase-common:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\ec4f217edfc3d80ed2e02db3288df4a7\firebase-common-19.0.0\AndroidManifest.xml:12:9-16:39
 69            android:name="com.google.firebase.provider.FirebaseInitProvider"
-69-->[com.google.firebase:firebase-common:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\38b9899ad2b97e3607a23ee05197f2d6\firebase-common-19.0.0\AndroidManifest.xml:13:13-77
+69-->[com.google.firebase:firebase-common:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\ec4f217edfc3d80ed2e02db3288df4a7\firebase-common-19.0.0\AndroidManifest.xml:13:13-77
 70            android:authorities="com.smartwidgets.library.test.firebaseinitprovider"
-70-->[com.google.firebase:firebase-common:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\38b9899ad2b97e3607a23ee05197f2d6\firebase-common-19.0.0\AndroidManifest.xml:14:13-72
+70-->[com.google.firebase:firebase-common:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\ec4f217edfc3d80ed2e02db3288df4a7\firebase-common-19.0.0\AndroidManifest.xml:14:13-72
 71            android:exported="false"
-71-->[com.google.firebase:firebase-common:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\38b9899ad2b97e3607a23ee05197f2d6\firebase-common-19.0.0\AndroidManifest.xml:15:13-37
+71-->[com.google.firebase:firebase-common:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\ec4f217edfc3d80ed2e02db3288df4a7\firebase-common-19.0.0\AndroidManifest.xml:15:13-37
 72            android:initOrder="100" />
-72-->[com.google.firebase:firebase-common:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\38b9899ad2b97e3607a23ee05197f2d6\firebase-common-19.0.0\AndroidManifest.xml:16:13-36
+72-->[com.google.firebase:firebase-common:19.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\ec4f217edfc3d80ed2e02db3288df4a7\firebase-common-19.0.0\AndroidManifest.xml:16:13-36
 73
 74        <meta-data
-74-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\e96abb3fa4a2fb31a13854e211e527e0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+74-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\a02448967e9030eeb9bdce6e8d6e2348\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
 75            android:name="com.google.android.gms.version"
-75-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\e96abb3fa4a2fb31a13854e211e527e0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+75-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\a02448967e9030eeb9bdce6e8d6e2348\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
 76            android:value="@integer/google_play_services_version" />
-76-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\e96abb3fa4a2fb31a13854e211e527e0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+76-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\a02448967e9030eeb9bdce6e8d6e2348\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
 77
 78        <provider
-78-->[com.squareup.picasso:picasso:2.71828] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\51616a3b07b1434c88df683c228212f1\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+78-->[com.squareup.picasso:picasso:2.71828] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\b5211f08a4cf39b6263bd131b2b63e95\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
 79            android:name="com.squareup.picasso.PicassoProvider"
-79-->[com.squareup.picasso:picasso:2.71828] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\51616a3b07b1434c88df683c228212f1\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+79-->[com.squareup.picasso:picasso:2.71828] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\b5211f08a4cf39b6263bd131b2b63e95\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
 80            android:authorities="com.smartwidgets.library.test.com.squareup.picasso"
-80-->[com.squareup.picasso:picasso:2.71828] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\51616a3b07b1434c88df683c228212f1\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+80-->[com.squareup.picasso:picasso:2.71828] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\b5211f08a4cf39b6263bd131b2b63e95\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
 81            android:exported="false" />
-81-->[com.squareup.picasso:picasso:2.71828] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\51616a3b07b1434c88df683c228212f1\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+81-->[com.squareup.picasso:picasso:2.71828] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\b5211f08a4cf39b6263bd131b2b63e95\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
 82    </application>
 83
 84</manifest>

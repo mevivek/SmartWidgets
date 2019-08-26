@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="SmartImageView">
-        <attr name="ratio" format="enum">
-            <enum name="square_by_width" value="1" />
-            <enum name="square_by_height" value="2" />
-        </attr>
-
-        <attr name="url" format="string" />
-        <attr name="placeholder" format="reference" />
-    </declare-styleable>
-
-    <declare-styleable name="SmartImageView">
         <attr name="shape" format="enum">
             <enum name="square" value="1" />
             <enum name="rectangle" value="2" />
