@@ -1,4 +1,4 @@
-package com.smartwidgets;
+package com.sample;
 
 import android.content.Context;
 

@@ -1,1 +1,1 @@
-D com/tiffinia/library/views/Circular$Mode
+D com/android/smartwidgets/SmartImageView$Mode

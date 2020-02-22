@@ -1,99 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accept">Accept</string>
-    <string name="account">Account</string>
-    <string name="add">add</string>
-    <string name="address_label">Address</string>
-    <string name="address_line_1">Address Line 1</string>
-    <string name="address_line_2">Address Line 2</string>
-    <string name="app_logo">app logo</string>
-    <string name="app_name">Library</string>
-    <string name="area_locality">Area/Locality</string>
-    <string name="breakfast">Breakfast</string>
-    <string name="cancel">Cancel</string>
-    <string name="capture">capture</string>
-    <string name="cash_on_delivery">Cash on Delivery</string>
-    <string name="choose_a_location_on_map">Choose a location on map</string>
-    <string name="city">City</string>
-    <string name="cod">COD</string>
-    <string name="contact_no">Contact No.</string>
-    <string name="customer_support_phone_number">+919711878753</string>
-    <string name="deliveries">Deliveries</string>
-    <string name="delivery_address">Delivery Address</string>
-    <string name="delivery_time">Delivery Time:</string>
-    <string name="dinner">Dinner</string>
-    <string name="edit">Edit</string>
-    <string name="edit_profile">Edit Profile</string>
-    <string name="except">except</string>
-    <string name="female">Female</string>
-    <string name="first_name">First Name</string>
-    <string name="food_count">food count</string>
-    <string name="food_image">food image</string>
-    <string name="food_name">Food Name</string>
-    <string name="gender">Gender</string>
-    <string name="getting_order_list">getting order list</string>
-    <string name="google_maps_key">AIzaSyAkKjV2loaBjrpiZc_IZtuQibZ3DAIALSY</string>
-    <string name="google_places_api">AIzaSyCmXurUrPGnqnww1acnbOBwgLSDoImr-rY</string>
-    <string name="home">Home</string>
-    <string name="image_label">image</string>
-    <string name="item">item</string>
-    <string name="item_count">Item Count</string>
-    <string name="items">items</string>
-    <string name="kitchen_image">kitchen image</string>
-    <string name="last_name">Last Name</string>
-    <string name="location">Location</string>
-    <string name="login">Login</string>
-    <string name="login_register">Login/Register</string>
-    <string name="logout">Logout</string>
-    <string name="lunch">Lunch</string>
-    <string name="lunch_and_dinner">Lunch and Dinner</string>
-    <string name="male">Male</string>
-    <string name="map">map</string>
-    <string name="messenger_link">http://m.me/tiffinia.india</string>
-    <string name="name_label">Name</string>
-    <string name="no_order_history">No order history</string>
-    <string name="no_subscription_plan_available">No subscription plan available.</string>
-    <string name="only_dinner">Only Dinner</string>
-    <string name="only_lunch">Only Lunch</string>
-    <string name="order_id">Order ID</string>
-    <string name="orders">Orders</string>
-    <string name="others">Others</string>
-    <string name="paid">paid</string>
-    <string name="pay">pay</string>
-    <string name="payment_mode">Payment Mode</string>
-    <string name="payments">Payments</string>
-    <string name="phone_number">Phone Number</string>
-    <string name="pin">PIN</string>
-    <string name="privacy_policy">https://tiffinia.com/privacy.html</string>
-    <string name="profile">Profile</string>
-    <string name="pure_veg_kitchen">Pure Veg Kitchen</string>
-    <string name="rating">Rating</string>
-    <string name="registration_complete">Registration Complete</string>
-    <string name="reject">Reject</string>
-    <string name="remaining_days">Remaining Days</string>
-    <string name="returned">returned</string>
-    <string name="rupee_symbol">₹</string>
-    <string name="save">Save</string>
-    <string name="scan">scan</string>
-    <string name="set">set</string>
-    <string name="show_locations_on_map">show locations on map</string>
-    <string name="skip">skip</string>
-    <string name="state">State</string>
-    <string name="subscription">Subscription</string>
-    <string name="subscription_plans">Subscription Plans</string>
-    <string name="tawk_direct_chat_link">https://tawk.to/chat/5d331b409b94cd38bbe86c48/default</string>
-    <string name="today_s_order">Today\'s Order</string>
-    <string name="total">Total</string>
-    <string name="unpaid">unpaid</string>
-    <string name="user_profile_image">user profile image</string>
-    <string name="veg_nonveg">Veg/Nonveg</string>
-    <string name="veg_only">Veg Only</string>
-    <string name="view_cart">view cart</string>
-    <string name="x">x</string>
-    <string name="you_have_no_delivery_today">You have no delivery today.</string>
-    <string name="you_have_no_order">You have no order</string>
-    <string name="your_are_not_logged_in">Your are not logged-in.</string>
-    <declare-styleable name="Circular">
+    <declare-styleable name="SmartImageView">
         <attr format="enum" name="shape">
             <enum name="square" value="1"/>
             <enum name="rectangle" value="2"/>
@@ -115,14 +22,5 @@
             <enum name="initial" value="1"/>
             <enum name="image" value="2"/>
         </attr>
-    </declare-styleable>
-    <declare-styleable name="SmartImageView">
-        <attr format="enum" name="ratio">
-            <enum name="square_by_width" value="1"/>
-            <enum name="square_by_height" value="2"/>
-        </attr>
-
-        <attr format="string" name="url"/>
-        <attr format="reference" name="placeholder"/>
     </declare-styleable>
 </resources>
